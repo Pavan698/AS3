@@ -63,9 +63,10 @@ After the expression handling, the program will demonstrate the use of the Queue
 It will enqueue three integers (e.g., 10, 20, 30) into a queue.
 It will display the front element of the queue, perform a dequeue operation, and display the new front element and the size of the queue.
 
- 
+ Screenshot outputs:
 <img width="523" alt="Screenshot 2023-11-09 at 6 39 25 PM" src="https://github.com/Pavan698/AS3/assets/123590108/946613dc-e67d-489b-80f1-b3b830f530c9">
 
+<img width="523" alt="Screenshot 2023-11-09 at 6 39 25 PM" src="https://github.com/Pavan698/AS3/assets/123590108/79b8de6a-306a-4307-b2f1-b0410869c0be">
 
 
 
